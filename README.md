@@ -19,6 +19,9 @@ N/A
 ## Support and contact details
 ​
 Please email me for further questions at teryn113@gmail.com
+
+## Other
+I was unable to use gitpod for this project so I had to transfer everything manually from VS Code.
 ​
 ## Technologies Used
 ​
